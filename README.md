@@ -1,6 +1,6 @@
 ## Server Side API Weather
 
-[Link to Application](https://almoral323.github.io/Weather-Dashboard-SS-API/Links to an external site.)
+[Link to Application](https://almoral323.github.io/Weather-Dashboard-SS-API/)
 
 Server-Side APIs Challenge: Weather Dashboard
 
