@@ -1,6 +1,6 @@
 ## Server Side API Weather
 
-[Link to Application]()
+[Link to Application](https://almoral323.github.io/Weather-Dashboard-SS-API/Links to an external site.)
 
 Server-Side APIs Challenge: Weather Dashboard
 
@@ -50,7 +50,8 @@ WHEN I am again presented with current and future conditions for that city
 
 ## Application ScreenShot Preview
 
-![Application Screenshot Preview](./images/Weather_Dashboard_API.png)
+![Screenshot 2023-03-08 024621](https://user-images.githubusercontent.com/113931387/223652653-c1009f96-717d-4657-b075-7cf248047963.png)
+
 
 ## Installation
 
